@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre el Hook app Debe mostrarse correctamente 1`] = `
+<Fragment>
+  <h1>
+    hola mundo
+  </h1>
+</Fragment>
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <RealExampleref/> debe de mostrarso correctamente 1`] = `
+<div>
+  <h1>
+    RealExampleref
+  </h1>
+  <hr />
+  <button
+    className="btn btn-primary"
+    onClick={[Function]}
+  >
+    <div>
+      show
+    </div>
+  </button>
+</div>
+`;
